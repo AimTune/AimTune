@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Dogus Teknoloji](https://d-teknoloji.com.tr)  
   
 
-- 🌱 I’m currently learning ML-AI, DevOps (GCP, Azure, Kubernetes), Rust  
+- 🌱 I’m currently learning ML-AI, DevOps (GCP, Azure), Rust  
   
 
 - ❓ Ask me about anything related to Node.js, Vue, .Net (ASP.Net, SignalR) and related technologies  
@@ -100,6 +100,18 @@
 <br/>
 
 <br/>  
+
+  <pre>
+           ／＞　 フ
+          | 　_　_|
+        ／` ミ__^ノ
+        /　　　　 |
+       /　 ヽ　　 ﾉ           ╱\_ 
+      /　　 |　|　|         (˚ˎ。7
+  ／￣|　　 |　|　|         |、˜〵
+ (￣ヽ＿_  ヽ_)__)         じしˍ,)ノ
+ ＼二)
+</pre>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aimtune&&style=flat-square" align="center" />
