@@ -1,10 +1,12 @@
-### <div align="center">I'm Hamza, fullstack developer</div>  
+### <div align="center"><img src="pikachu.gif" width="64" height="64" /></div> 
+
+<div align="center">Hi, I'm <b>Hamza</b></div>  
   
 
-- 🔭 I’m currently working on [Dogus Teknoloji](https://d-teknoloji.com.tr)  
+- 🔭 I’m currently working on [Dogus Teknoloji](https://d-teknoloji.com.tr) as Mid. Level Fullstack Software Developer
   
 
-- 🌱 I’m currently learning ML-AI, DevOps (GCP, Azure)
+- 🌱 I’m currently learning Elixir, Erlang, DDD, ML-AI, DevOps
   
 
 - ❓ Ask me about anything related to Node.js, Vue, .Net (ASP.Net, SignalR) and related technologies  
