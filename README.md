@@ -1,4 +1,4 @@
-### <div align="center"><img src="pikachu.gif" width="64" height="64" /></div> 
+### <div align="center"><img src="images/pikachu.gif" width="64" height="64" /></div> 
 
 <div align="center">Hi, I'm <b>Hamza</b></div>  
   
@@ -57,6 +57,7 @@
 
 ### ML-AI  
 <div align="center">  
+<a href="https://python.langchain.com/" target="_blank"><img style="margin: 10px" src="images/langchain.png" alt="LangChain" height="50" /></a>
 <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" alt="Hugging Face" height="50" /></a>    
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
