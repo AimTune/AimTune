@@ -2,7 +2,7 @@
 
 <div align="center">Hi, I'm <b>Hamza</b></div>  
   
-
+- 🔭 Working as an architecture-focused Fullstack Software Developer while also taking responsibilities in DevOps engineering and GenAI-driven development processes.
 - 🌱 I'm currently learning Elixir, DDD, Computer Networks, Advanced DevOps.
 
 ### 💪 Very Strong Experiences
