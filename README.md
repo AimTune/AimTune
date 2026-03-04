@@ -3,7 +3,6 @@
 <div align="center">Hi, I'm <b>Hamza</b></div>  
   
 
-- 🔭 I'm currently working on [Dogus Teknoloji](https://d-teknoloji.com.tr) as Associate Specialist Fullstack Software Developer. Also, I work as DevOps Engineer in my team.
 - 🌱 I'm currently learning Elixir, DDD, Computer Networks, Advanced DevOps.
 
 ### 💪 Very Strong Experiences
